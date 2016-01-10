@@ -2,8 +2,9 @@
 type: "post"
 draft: true
 author: "frostwong@gmail.com"
-description: "description"
-keywords: ["key", "words"]
-topics: ["topic 1"]
+description: "Symfony3 框架"
+keywords: ["PHP", "Symfony3"]
+topics: ["Symfony"]
 tags: ["one", "two"]
 ---
+
