@@ -1,9 +1,8 @@
 ---
 type: "post"
 draft: true
-author: "frostwong@gmail.com"
+author: "frostwong"
 description: "description"
 keywords: ["key", "words"]
-topics: ["topic 1"]
 tags: ["one", "two"]
 ---
