@@ -5,4 +5,5 @@ author: "frostwong"
 description: "description"
 keywords: ["key", "words"]
 tags: ["one", "two"]
+isCJKLanguage:  true
 ---
